@@ -1,0 +1,14 @@
+{
+  //Editor
+  "editor.tabSize": 2,
+  "editor.fontSize": 12,
+  "editor.lineHeight": 17,
+  "editor.fontFamily": "Fira Code Regular",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  // Discord Presence
+  "discord.detailsEditing": "Editing {filename}",
+  "discord.largeImage": "Editing a {LANG} file",
+  "discord.lowerDetailsEditing": "Workspace: JS",
+  "diffEditor.ignoreTrimWhitespace": false
+}
